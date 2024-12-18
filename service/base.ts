@@ -18,7 +18,6 @@ const baseOptions = {
   credentials: 'include', // always send cookies、HTTP Basic authentication.
   headers: new Headers({
     'Content-Type': ContentType.json,
-    'Authorization': "app-StrjS9nlVCI4PPXTd51w8hNx"
   }),
   redirect: 'follow',
 }
